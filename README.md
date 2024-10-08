@@ -1,10 +1,13 @@
 ## Hi there 👋
 
+### Hello! My name is Chiara, im a 21 years old student at University of Genoa.
+### i will update this later, if you are interested in getting-to-know-me contact me on telegram!
+### the link is on my profile infos!
+
 <!--
 **chiaras-here/chiaras-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
